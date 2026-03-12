@@ -1,12 +1,6 @@
 # 3D Soft-Body Physics Simulator
-
 # Demo Video
-
-
-
-https://github.com/user-attachments/assets/78f3d402-e0f7-4111-9db4-f849af69d57c
-
-
+![Motion Interpolation Demo](./ScreenRecording2026-03-03at20.56.25-ezgif.com-video-to-gif-converter.gif)
 
 # What’s Implemented
 
