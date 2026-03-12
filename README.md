@@ -4,7 +4,7 @@
 
 
 
-https://github.com/user-attachments/assets/78f3d402-e0f7-4111-9db4-f849af69d57c
+[![Watch Demo Video](./demo.png)](https://github.com/user-attachments/assets/78f3d402-e0f7-4111-9db4-f849af69d57c)
 
 
 
